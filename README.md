@@ -18,4 +18,4 @@ pip install Pillow
 ```
 
 ## 실행 결과
-<img src = "images/default_view.PNG", alt="초기 화면">
+<img src = "images/default_view.JPG", alt="초기 화면">
