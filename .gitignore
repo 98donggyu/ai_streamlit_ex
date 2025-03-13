@@ -173,3 +173,4 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 생각노트.txt
+temp_audio.mp3
